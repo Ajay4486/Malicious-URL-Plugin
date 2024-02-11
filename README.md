@@ -1,10 +1,10 @@
 ## Malicious URL Plugin
 
-• Developed a browser extension that can detect malicious websites in real time as user browse over website.
-• Implemented a ML model to classify between a malicious and legitimate website using random forest with an
-accuracy of 94.68% and K-fold cross-validation score of 94.7530
-• Created a user-friendly interface within the browser extension, offering warnings or notifications whenever user
-encounters a suspicious website.
+ -  Developed a browser extension that can detect malicious websites in real time as user browse over website.
+ -  Implemented a ML model to classify between a malicious and legitimate website using random forest with an
+     accuracy of 94.68% and K-fold cross-validation score of 94.7530
+ -  Created a user-friendly interface within the browser extension, offering warnings or notifications whenever user
+     encounters a suspicious website.
 
 
 ## Screenshot 
